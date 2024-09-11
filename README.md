@@ -2,13 +2,15 @@ Titanik_Logistic_Regression_model
 A machine learning model that predicts passenger survival on the Titanic using logistic regression.
 
 Introduction
+
 This project aims to develop a machine learning model capable of predicting the survival of passengers on the Titanic based on various features such as age, sex, class, and fare. Logistic regression is employed as the modeling technique due to its suitability for binary classification problems.
 
 Installation
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/Titanik_Logistic_Regression_model.git
+git clone https://github.com/TarekHesham2000/Titanik_Logistic_Regression_model.git
+
 
 Create a virtual environment:
 
